@@ -1,4 +1,4 @@
-# product
+# Stores
 
 A new Flutter project.
 
